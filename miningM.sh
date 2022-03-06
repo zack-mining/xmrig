@@ -6,7 +6,7 @@ sudo apt update
 clear
 sudo apt install screen
 screen -R xmr
- 
+
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-bionic-x64.tar.gz
 ls
 tar xvzf xmrig-6.16.4-bionic-x64.tar.gz
